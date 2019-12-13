@@ -1,0 +1,1 @@
+Marlin 2.0 on SKR 1.3 + MKS TFT32 + Bltouch + 3 Fans (1 in E1,1 in Fan,1 in 12v)
